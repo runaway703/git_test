@@ -1,0 +1,1 @@
+This is Joshua Smith's first git procect!
